@@ -1,0 +1,6 @@
+Buy groceries
+Complete Python project
+Prepare resume
+
+
+This file stores tasks automatically.
