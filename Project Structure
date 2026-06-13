@@ -1,0 +1,12 @@
+ToDo_List_App/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── data/
+│   └── tasks.txt
+│
+└── assets/
+    └── screenshots/
